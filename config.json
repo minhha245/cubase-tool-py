@@ -1,0 +1,19 @@
+{
+    "toggles": {
+        "DO_TONE": false,
+        "LAY_TONE": false,
+        "MUTE_MUSIC": false,
+        "MUTE_MIC": false,
+        "VANG_FX": true,
+        "LOFI": true,
+        "REMIX": false,
+        "SAVE": false
+    },
+    "sliders": {
+        "MUSIC_VOL": 57.0,
+        "MIC_VOL": 34.0,
+        "REVERB_LONG": 77.0,
+        "REVERB_SHORT": 86.0,
+        "TUNE": 70.4908256880734
+    }
+}

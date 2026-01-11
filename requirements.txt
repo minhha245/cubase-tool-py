@@ -1,0 +1,21 @@
+# Core GUI
+customtkinter>=5.2.0
+
+# MIDI
+python-rtmidi>=1.5.0
+
+# Automation (for Auto-Key plugin control)
+pyautogui>=0.9.50
+pygetwindow>=0.0.9
+
+# Realtime Pitch Detection
+# Option 1: CREPE (Most Accurate - Deep Learning based)
+crepe>=0.0.13
+tensorflow>=2.10.0,<2.16.0  # CREPE compatible version
+
+# Option 2: Aubio (Faster, Good accuracy - fallback)
+aubio>=0.4.9
+
+# Audio Input
+sounddevice>=0.4.6
+numpy>=1.23.0
